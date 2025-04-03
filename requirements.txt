@@ -4,4 +4,11 @@ langchain
 PyPDF2
 faiss-cpu
 streamlit
+langchain.text_splitter
+langchain.embeddings
+langchain.llms
+langchain.vectorstores
+langchain.chains
+langchain.memory
+dotenv
 -e .
